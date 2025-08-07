@@ -2,14 +2,39 @@
 
 ```bash
 yaniv@kali:~$ whoami
-Cybersecurity Student | Penetration Testing Enthusiast | Python Developer
+Cybersecurity Penetration Testing Enthusiast | Python Developer
+```
+
+```python
+skills = {
+    "languages": ["Python", "Bash"],
+    "cybersecurity": ["Penetration Testing", "Kali Linux", "Ethical Hacking"],
+    "tools": ["Metasploit", "SQLMap", "Burpsuite", "Nmap", "Wireshark", "John the Ripper", "Hydra", "Gobuster"],
+    "focus": ["AI Automation", "Security Scripts", "Tool Enhancement"]
+}
 ```
 
 ## 🔥 Quick Stats
 - 🏆 **TryHackMe:** Rank #5264 | Top 1% | 250 Completed Rooms | 30 Badges
 - 💻 **Daily Driver:** Kali Linux with QTerminal
-- 🐍 **Favorite Languages:** Python, Bash, C#, Delphi
+- 🐍 **Favorite Languages:** Python, Bash
 - 🎯 **Focus:** Penetration Testing + AI Automation
+
+## 🧑‍💻 About Me
+
+I'm a passionate cybersecurity enthusiast running **Kali Linux**. My journey combines traditional penetration testing with cutting-edge AI automation, creating powerful tools that enhance security workflows.
+
+**🔍 My Approach:**
+- **Hands-on Learning:** Active on HackTheBox and TryHackMe platforms
+- **Tool Development:** Building Python scripts for security automation  
+- **AI Integration:** Leveraging Claude, GPT, and local models for enhanced workflows
+- **Knowledge Sharing:** Creating educational resources and interactive tools
+
+**🛡️ Security Arsenal:**
+- **Primary Tools:** Metasploit, SQLMap, Burpsuite, Evil-WinRM, Nessus
+- **Custom Wordlists:** 140GB+ collection for comprehensive testing
+- **Automation:** Python-based exploit frameworks and reconnaissance tools
+- **Lab Environment:** Dedicated testing setup with VPN configurations
 
 ## 🚀 Featured Project
 
@@ -22,15 +47,13 @@ A slick, hacker-themed portfolio showcasing my cybersecurity journey and coding 
 - Links to TryHackMe profile and GitHub repositories
 - Mobile responsive design
 
-[🔗 **View Live Portfolio**](https://yanivhaliwa.github.io/yaniv-portfolio/) | [📁 **Source Code**](https://github.com/YanivHaliwa/yaniv-portfolio)
-
 ---
 
 ## 🛠️ Tech Arsenal
 
 ```python
 skills = {
-    "languages": ["Python", "Bash", "C#", "Delphi", "HTML/CSS/JS"],
+    "languages": ["Python", "Bash"],
     "cybersecurity": ["Penetration Testing", "Kali Linux", "Ethical Hacking"],
     "tools": ["TryHackMe", "GitHub", "QTerminal", "VS Code"],
     "focus": ["AI Automation", "Security Scripts", "Tool Enhancement"]
