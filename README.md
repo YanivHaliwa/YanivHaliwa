@@ -66,6 +66,7 @@ skills = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YanivHaliwa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)
 
+ 
 ## 🎯 Current Projects
 
 - 🔍 **Pen-Testing Labs:** Hands-on practice with various security scenarios
