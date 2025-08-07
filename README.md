@@ -2,7 +2,7 @@
 
 ```bash
 yaniv@kali:~$ whoami
-Cybersecurity Penetration Testing Enthusiast | Python Developer
+Cybersecurity Specialist | Penetration Tester | AI-Powered Security Automation Expert
 ```
 
 ```python
