@@ -15,14 +15,12 @@ skills = {
 ```
 
 ## 🔥 Quick Stats
-- 🏆 **TryHackMe:** Rank  Top 1%
+- 🏆 **TryHackMe:** Rank #5264 | Top 1% | 250 Completed Rooms | 30 Badges
 - 💻 **Daily Driver:** Kali Linux with QTerminal
 - 🐍 **Favorite Languages:** Python, Bash
 - 🎯 **Focus:** Penetration Testing + AI Automation
-
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YanivHaliwa.png)
-
+ 
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/YanivHaliwa.png?v=2025)
 
 ## 🧑‍💻 About Me
 
