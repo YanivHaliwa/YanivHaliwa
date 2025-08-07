@@ -49,9 +49,13 @@ skills = {
 - 🤖 **AI-Powered Tools:** Creating intelligent automation scripts  
 - 📦 **GitHub Projects:** Building reusable tools for the community
 - 🎓 **Skill Development:** Constantly learning through practical application
+- 🔐 **[CyberDict](https://cyberdict.yanivhaliwa.com)** | **[Short Link](https://did.li/cyberdict)** - Cybersecurity Dictionary & Reference
+- 🛠️ **[CyberTools](https://cybertools.yanivhaliwa.com)** | **[Short Link](https://did.li/cybertools)** - Security Tools Collection
 
 ## 🔗 Connect With Me
 
+[![Website](https://img.shields.io/badge/Website-**yanivhaliwa.com**-ff6600?style=for-the-badge&logo=firefox&logoColor=white)](https://yanivhaliwa.com/)
+[![LinkedIn](https://img.shields.io/badge/**LinkedIn**-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaniv-haliwa/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YanivHaliwa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00ff00?style=for-the-badge&logo=github&logoColor=black)](https://yanivhaliwa.github.io/yaniv-portfolio/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:yaniv@yanivhaliwa.com)
