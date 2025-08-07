@@ -31,7 +31,7 @@ I'm a passionate cybersecurity enthusiast running **Kali Linux**. My journey com
 - **Knowledge Sharing:** Creating educational resources and interactive tools
 
 **🛡️ Security Arsenal:**
-- **Primary Tools:** Metasploit, SQLMap, Burpsuite, Evil-WinRM, Nessus
+- **Primary Tools:** Metasploit, SQLMap, Burpsuite, Nmap, Wireshark, John the Ripper, Hydra, Gobuster
 - **Custom Wordlists:** 140GB+ collection for comprehensive testing
 - **Automation:** Python-based exploit frameworks and reconnaissance tools
 - **Lab Environment:** Dedicated testing setup with VPN configurations
@@ -46,20 +46,7 @@ A slick, hacker-themed portfolio showcasing my cybersecurity journey and coding 
 - Interactive navigation and smooth animations  
 - Links to TryHackMe profile and GitHub repositories
 - Mobile responsive design
-
----
-
-## 🛠️ Tech Arsenal
-
-```python
-skills = {
-    "languages": ["Python", "Bash"],
-    "cybersecurity": ["Penetration Testing", "Kali Linux", "Ethical Hacking"],
-    "tools": ["TryHackMe", "GitHub", "QTerminal", "VS Code"],
-    "focus": ["AI Automation", "Security Scripts", "Tool Enhancement"]
-}
-```
-
+ 
 ## 📈 GitHub Activity
 
 ![Yaniv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YanivHaliwa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ffff&text_color=ffffff)
@@ -90,5 +77,3 @@ skills = {
 yaniv@kali:~$ echo "Thanks for checking out my profile!"
 yaniv@kali:~$ ./start_awesome_collaboration.py
 ```
-
-⭐ **Interested in collaborating?** Check out my repositories below or visit my portfolio!
